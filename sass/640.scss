@@ -1,0 +1,89 @@
+
+@media only screen and (max-width: 540px) {
+  main .guarantee-block .guarantee-block-inner h2 {
+    font-size: 30px;
+  }
+
+  main .guarantee-block .guarantee-block-inner .guarantee-inner-lists .guarantee-inner-left-list {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  header .header-inner-txt {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: auto;
+  }
+
+  header .header-inner-txt .txt-list .review-block {
+    font-size: 14px;
+  }
+
+  header .header-inner-txt .txt-list h2 {
+    font-size: 18px;
+  }
+
+  header .header-inner-txt .txt-list p {
+    font-size: 12px;
+  }
+
+  header .header-inner-txt .txt-list p {
+    margin-left: 0;
+  }
+
+  header .header-inner-txt .txt-list p:before {
+    display: none;
+  }
+
+  main .design-block .design-block-tabs ul li.active a,
+  main .design-block .design-block-tabs ul li a,
+  main .design-block .design-block-tabs ul li a:hover,
+  main .design-block .design-block-tabs ul li.active a:hover
+  {
+    font-size: 16px!important;
+  }
+
+  main .design-block .more-works-block a {
+    font-size: 16px;
+  }
+
+  main .services-block .title h2 {
+    font-size: 30px;
+  }
+
+  main .projects-block .projects-inner-right-block .projects-inner-right-txt h3 {
+    font-size: 20px;
+  }
+
+  main .projects-block .projects-inner-right-block {
+    padding-bottom: 50px;
+  }
+
+  main .advantages-block .title h2 {
+    font-size: 30px;
+  }
+
+  main .stars-block .title h2 {
+    font-size: 25px;
+  }
+
+  main .complex-design-block .title h2 {
+    font-size: 17px;
+  }
+
+  main .complex-design-block .moscow-designer-block .moscow-designer-block-txt,
+  main .complex-design-block .staff-block .staff-inner-block
+  {
+    font-size: 14px;
+  }
+
+  main .complex-design-block .staff-block .staff-inner-block:before {
+    top: -18px;
+  }
+
+  main .complex-design-block .fill-form-block h3 {
+    font-size: 16px;
+  }
+
+}

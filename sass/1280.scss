@@ -1,0 +1,164 @@
+
+@media only screen and (max-width: 1200px) {
+
+  header .header-inner-block nav .header-block .header-top .header-top-left-txt {
+    display: none;
+  }
+
+  header .header-inner-block nav .header-block .header-top ul {
+    margin-left: 20px;
+  }
+
+  header .header-inner-block nav .header-block .header-bottom ul li {
+    margin-right: 13px;
+  }
+
+  header .header-inner-block nav .header-block .header-bottom ul li a
+  {
+    font-size: 14px;
+  }
+
+  header .header-inner-txt {
+    width: 500px;
+    left: 0;
+  }
+
+  header .header-inner-txt .txt-list h2 {
+    font-size: 31px;
+    line-height: 46px;
+    margin-bottom: 25px;
+  }
+
+  header .header-inner-txt .txt-list p {
+    font-size: 20px;
+  }
+
+  header .header-inner-txt .txt-list p:before {
+    top: 16px;
+  }
+
+  header .header-inner-txt .txt-list h2 {
+    width: auto;
+  }
+
+  header .header-inner-txt .txt-list p,
+  header .header-inner-txt .txt-list .review-block {
+    float: none;
+  }
+
+  header .header-inner-txt .txt-list p {
+    margin-bottom: 50px;
+  }
+
+  header .header-inner-txt .txt-list .review-block {
+    margin: 0 auto;
+    width: 181px;
+  }
+
+  main .guarantee-block .guarantee-block-inner .guarantee-inner-lists .guarantee-inner-right-list .guarantee-inner-right-list-top li:first-child,
+  main .guarantee-block .guarantee-block-inner .guarantee-inner-lists .guarantee-inner-right-list .guarantee-inner-right-list-bottom li:first-child {
+    margin-right: 36px;
+  }
+
+  main .guarantee-block .guarantee-block-inner .guarantee-inner-lists .guarantee-inner-left-list {
+    font-size: 24px;
+  }
+
+  main .services-block .services-block-inner .services-txt-block .services-txt-block-inner ul {
+    padding-bottom: 20px;
+  }
+
+  main .services-block .services-block-inner .services-txt-block .services-txt-block-inner .txt-list h3 {
+    font-size: 16px;
+    padding-bottom: 15px;
+  }
+
+  main .services-block .services-block-inner .services-txt-block .services-txt-block-inner .txt-list p {
+    font-size: 16px;
+    padding-bottom: 22px;
+    line-height: 23px;
+  }
+
+  main .projects-block .projects-inner-block,
+  main .projects-block .projects-inner-right-block {
+    float: none;
+  }
+
+  main .projects-block .projects-inner-block {
+    margin-bottom: 30px;
+  }
+
+  .fotorama__wrap, main .projects-block .projects-inner-right-block {
+    margin: 0 auto;
+  }
+
+  main .stars-block .title h2 {
+    font-size: 62px;
+  }
+
+  main .stars-block .title {
+    text-align: center;
+    margin-left: 0;
+  }
+
+  main .complex-design-block .moscow-designer-block,
+  main .complex-design-block .staff-block
+  {
+    height: 162px;
+  }
+
+  main .complex-design-block .title {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  main .complex-design-block .title h2 {
+    font-size: 40px;
+  }
+
+  main .complex-design-block .moscow-designer-block .moscow-designer-block-txt {
+    font-size: 18px;
+  }
+
+  .fill-form-block-title {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  form {
+    text-align: center;
+  }
+
+  main .complex-design-block .fill-form-block form .fill-form-list,
+  main .complex-design-block .fill-form-block form .submit-btn {
+    float: none!important;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  main .complex-design-block .fill-form-block form .submit-btn {
+    margin-left: 0!important;
+    margin-top: 35px;
+  }
+
+  main .complex-design-block .fill-form-block form .fill-form-list input {
+    width: 50%;
+  }
+
+  main .complex-design-block .fill-form-block form .submit-btn:before {
+    left: 285px;
+  }
+
+  #map {
+    width: 100%!important;
+  }
+
+  main .contacts-block ul li {
+    font-size: 14px;
+  }
+
+  main .contacts-block .title h2 {
+    font-size: 40px;
+  }
+
+}

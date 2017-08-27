@@ -1,0 +1,34 @@
+header nav h1 a:hover,
+footer .footer-logo-block a:hover {
+  opacity: .8;
+}
+
+header .header-inner-block nav .header-block .header-bottom ul li a:hover,
+header .header-inner-block nav .header-block .header-bottom ul li a.active {
+  color: #fbcf84;
+}
+
+header .header-inner-block nav .header-block .header-top ul li a:hover {
+  color: #8F8F8F;
+}
+
+main .services-block .services-block-inner .services-txt-block .services-txt-block-inner .txt-list a:hover {
+  background-color: #fbcf84;
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+footer .footer-txt-block li a:hover {
+  color: #707070;
+}
+
+header .header-inner-block nav .header-block .header-top .header-top-right-block button:hover {
+  background-color: #fbcf84;
+  color: #e1e1e1;
+  border: 1px solid transparent;
+}
+
+footer .social-icons-list li a:hover {
+  background-color: #141515;
+  color: #fff;
+}
