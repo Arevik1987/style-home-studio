@@ -255,6 +255,15 @@ header .header-bottom-icon {
   width: 45px;
   height: 75px;
   /*animation: animation_1tq8nz3 2s ease-in-out 0s infinite alternate;*/
+  /*a {
+      display: inline-block;
+      vertical-align: middle;
+      -webkit-transform: perspective(1px) translateZ(0);
+      transform: perspective(1px) translateZ(0);
+      box-shadow: 0 0 1px transparent;
+      width: 45px;
+      height: 75px;
+    }*/
 }
 
 main .guarantee-block {
@@ -1325,6 +1334,12 @@ footer .footer-txt-block li:first-child {
   main .contacts-block .title, main .contacts-block ul {
     width: 270px;
     margin: 30px auto;
+  }
+  .services-txt-block {
+    clear: both !important;
+  }
+  .list {
+    float: none !important;
   }
 }
 
